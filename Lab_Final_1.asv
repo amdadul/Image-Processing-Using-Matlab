@@ -1,0 +1,4 @@
+img = imread('H:\PICTURE\my_image.jpg');
+
+
+figure(1)
